@@ -104,7 +104,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "풀스택 개발자를 지망하고 있는 최대민입니다."
   location         : "Gwangju, Gyeonggi-do"
-  email            : dmchoi1114@gmail.com
+  contact me       : dmchoi1114@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
